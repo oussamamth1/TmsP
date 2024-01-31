@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "267632933517",
+    "firebase_url": "https://tmspro-e42d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tmspro-e42d7",
+    "storage_bucket": "tmspro-e42d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267632933517:android:909f202d319f0875bc40c4",
+        "android_client_info": {
+          "package_name": "com.example.tms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGCJvvRJONnTn0vZnLGbbCRnl50GPoDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
